@@ -6,9 +6,9 @@
   <h3 align="center">Machine-Learning-CC72</h3>
 
   <p align="center">
-    Modelo físico de visualización de exchanges y criptomonedas
+    Análisis EDA y visualizaciones de las métricas de criptomonedas en redes sociales 
     <br/>
-    <a href="https://github.com/Elysian-C/ML_Crypto_graph.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Elysian-C/Crypto-social-media-visualizations.git"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <strong>Docente</strong>
